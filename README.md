@@ -19,3 +19,12 @@ Blacklist Managemnt Tool used to manage the External Dynamic List (EDL), which c
 - It does not remove domains from the list—only IP addresses—ensuring effective list management.
 -	It can remove duplicate IPs, if any exist.
 -	It supports Undo/Redo functionality for rollback purposes.
+
+# 2. File Transfer Tool
+This tool was created for general file-sharing purposes, inspired by the tool mentioned above.
+
+Here are the features of the tool:
+
+- Upload and download files with a single executable, with a progress bar.
+- Display the checksum of uploaded and downloaded files.
+- Easily share files—just send the .exe version to a friend and share the download URL.
