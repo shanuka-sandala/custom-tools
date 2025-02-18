@@ -1,5 +1,6 @@
 # Custom-Tools
 This repository contains tools I have created to simplify my daily tasks. Some of these tools might be useful to you as well. With a few modifications, you can customize the code to suit your specific needs. These all are made using Python.
+To learn more about these tools visit my blog; https://the-debugging-diaries.com and check the related post by searching the name.
 
 # 1. Malicious IP Processor & Blacklist Management Tool
 Malicious IP Processor and Blacklist Management Tools are created for manage the PaloAlto EDL file in the server. Here are the functionalities of the mentioned Tools;
